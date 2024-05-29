@@ -1,4 +1,4 @@
-## Hi, I'm Bexzod <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXN5eWhjcWo2Y3o4dnl4NXc2bTlieWkweDBxMTVpN2N5ZzJyYnBwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SwZBtqe4yvEWP7q07X/giphy.webp"/>
+## Hi, I'm Bexzod <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXN5eWhjcWo2Y3o4dnl4NXc2bTlieWkweDBxMTVpN2N5ZzJyYnBwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SwZBtqe4yvEWP7q07X/giphy.webp" width="35px"/>
 
 
 
