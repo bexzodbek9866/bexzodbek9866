@@ -6,7 +6,9 @@ I'm a software developer
 ## About me
 ✨ Frontend Web Developer
 
-<hr>
 <h3> 🛠 &nbsp;Tech Stack</h3>
+
 - 🌐 &nbsp;Frontend:&nbsp;
   ![Vue](https://img.shields.io/badge/-Vue-0A1A2F?style=flat&logo=vue)
+- 🖥 &nbsp;Design:&nbsp;
+  ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma)
