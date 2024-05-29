@@ -10,10 +10,9 @@ I'm a software developer
 
 - 🌐 &nbsp;Frontend:&nbsp;
   ![Js](https://img.shields.io/badge/-Js-0A1A2F?style=flat&logo=js)
+  ![TS](https://img.shields.io/badge/-Ts-0A1A2F?style=flat&logo=ts)
   ![Vue](https://img.shields.io/badge/-Vue-0A1A2F?style=flat&logo=vue)
-  ![Vue](https://img.shields.io/badge/-Vue-0A1A2F?style=flat&logo=vue)
-  ![Vue](https://img.shields.io/badge/-Vue-0A1A2F?style=flat&logo=vue)
-  ![Vue](https://img.shields.io/badge/-Vue-0A1A2F?style=flat&logo=vue)
+  ![Quasar](https://img.shields.io/badge/-Quasar-0A1A2F?style=flat&logo=quasar)
 - ⚙️ &nbsp;VCS: &nbsp;
   ![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github)
@@ -21,3 +20,4 @@ I'm a software developer
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
 - 🖥 &nbsp;Design:&nbsp;
   ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma)
+
